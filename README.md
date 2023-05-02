@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍷 Wine - Clustering 🍷
+# 🍷 Vinhos - Clustering 🍷
 
 </div>
 
