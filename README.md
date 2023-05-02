@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Sobre o projeto](#project) | [Ferramentas](#tools) | [Organização das pastas](#folders) | [Autor](#autor)
+[Sobre o projeto](#project) | [Ferramentas](#tools) | [Executando](#running) | [Organização das pastas](#folders) | [Autor](#autor)
 
 </br>
 
@@ -28,9 +28,30 @@ Aplicação de machine learning no jupyter notebook feita com uma base de dados 
 
 </br>
 
+## ⚙️ Executando <a name="running"></a>
+
+```bash
+
+# Baixe este repositório ou clone pelo Git usando o comando:
+$ git clone https://github.com/drisabelles/wine-clustering.git
+
+# Acesse a pasta do projeto
+$ cd wine-clustering
+
+# Rode o projeto em uma IDE de sua preferência, como por exemplo Jupyter Notebook, Kaggle e etc.
+
+```
+
+</br>
+
 ## 🗂️ Organização das pastas <a name="folders"></a>
 
-Em breve.
+```bash
+📂 wine-clustering
+|- 📁 dataset
+|--- 📄 wine-clustering.csv
+|- 📄 wines_clustering.ipynb
+```
 
 </br>
 
